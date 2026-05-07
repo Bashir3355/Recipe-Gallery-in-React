@@ -11,11 +11,11 @@
 }
 
 .card {
-  border: 1px solid #103af6;
+  border: 1px solid #f90000;
   border-radius: 14px;
   overflow: hidden;
   padding: 12px;
-  background: rgb(55, 234, 6);
+  background: rgb(243, 236, 238);
 }
 
 img {

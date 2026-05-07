@@ -1,5 +1,11 @@
-import RecipeGallery from "./components/RecipeGallery";
+import ContactForm from './components/ContactForm';
 
-export default function App() {
-  return <RecipeGallery />;
+function App() {
+  return (
+    <div className="App">
+      <h1>My Recipe Gallery</h1>
+      {/* Other components */}
+      <ContactForm />
+    </div>
+  );
 }
